@@ -1,9 +1,10 @@
+import ShuffleHero from '@/components/ShuffleHero';
 import Image from 'next/image';
 
 export default function Home() {
   return (
     <>
-    <h1>Hello Bhai!</h1>
+    <ShuffleHero />
     </>
   )
 }
