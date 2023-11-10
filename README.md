@@ -1,3 +1,33 @@
+# Aapda: Integrated Flood Management System for Kaziranga
+
+Aapda's mission is to develop an integrated, technology-driven solution to address the recurring flood challenges in Kaziranga, Assam, which affect both wildlife and human communities. Our goal is to create a comprehensive flood monitoring and intervention system utilizing satellite imagery, drones, and computer vision to:
+
+1. Identify flood-prone areas and assess the extent of flooding using satellite data and computer vision. We use computer vision and machine learning to develop models that identify areas that are unsafe and should be evacuated before floods, using various parameters like weather details, land area, and recent constructions using the available satellite data.
+2. Implement a wildlife rescue and relocation strategy using drones to transport animals to safe zones and deliver essential supplies. Our drones identify places where animals need to be rescued and guide them using food bags to safe places.
+3. Prevent wildlife migration onto roads and residential areas to enhance human-wildlife coexistence during floods.
+4. Ensure effective disaster response by using satellite-connected boats and rescue rafts to reach remote and neglected areas with necessary resources and support. Some areas are neglected due to low visibility by helicopters during rescue missions, but our drones will identify these areas using machine learning models, which will be more efficient and aid more people at a lesser cost.
+5. Establish an SMS and GPS alert system to guide residents during flood emergencies, enhancing community safety and communication.
+
+## Getting Started
+
+[Instructions for setting up & running the project locally]
+
+## Contributing
+
+[Guidelines for contributing to the project]
+
+## Technology Stack
+
+[Details about the technology stack used in Aapda]
+
+## License
+
+Aapda is released under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+[Acknowledgments for collaborations and support]
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
