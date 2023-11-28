@@ -15,9 +15,9 @@ const ShuffleHero = () => {
         <p className="text-base md:text-lg text-slate-700 my-4 md:my-6">
           leveraging advanced technology to protect the region's diverse wildlife and human communities. Our integrated system combines satellite imagery, drone technology, and computer vision to pioneer a preemptive and responsive approach to floods.
         </p>
-        <button className="bg-indigo-500 text-white font-medium py-2 px-4 rounded transition-all hover:bg-indigo-600 active:scale-95">
+        <a href="#know" className="bg-indigo-500 text-white font-medium py-2 px-4 rounded transition-all hover:bg-indigo-600 active:scale-95">
           Learn More
-        </button>
+        </a>
       </div>
       <ShuffleGrid />
     </section>

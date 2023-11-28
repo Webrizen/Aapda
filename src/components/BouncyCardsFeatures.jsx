@@ -20,7 +20,7 @@ export const BouncyCardsFeatures = () => {
           whileTap={{ scale: 0.95 }}
           className="whitespace-nowrap rounded-lg bg-slate-900 px-4 py-2 font-medium text-white shadow-xl transition-colors hover:bg-slate-700"
         >
-          Learn more
+          A technology for earth
         </motion.button>
       </div>
       <div className="mb-4 grid grid-cols-12 gap-4">
