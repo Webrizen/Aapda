@@ -9,10 +9,10 @@ export const BouncyCardsFeatures = () => {
         <div className="flex flex-col gap-4">
         <h2 className="max-w-lg text-4xl font-bold md:text-5xl">
         About the Problem 
-          <span className="text-slate-400"> The Flood Crisis in Kaziranga.</span>
+          <span className="text-slate-400"> The Flood Crisis in Assam.</span>
         </h2>
         <p className="max-w-2xl">
-        Kaziranga, renowned for its rich biodiversity and the iconic one-horned rhinoceros, faces a grave annual challenge: catastrophic flooding. The Brahmaputra River, nourishing the land in its serene days, turns into a source of destruction during monsoon seasons. Its rising waters inundate the park, leading to tragic losses for both wildlife and human settlements.
+        Kaziranga located in Assam, renowned for its rich biodiversity and the iconic one-horned rhinoceros, faces a grave annual challenge: catastrophic flooding. The Brahmaputra River, nourishing the land in its serene days, turns into a source of destruction during monsoon seasons. Its rising waters inundate the park, leading to tragic losses for both wildlife and human settlements.
         </p>
         </div>
         <motion.button
@@ -20,7 +20,7 @@ export const BouncyCardsFeatures = () => {
           whileTap={{ scale: 0.95 }}
           className="whitespace-nowrap rounded-lg bg-slate-900 px-4 py-2 font-medium text-white shadow-xl transition-colors hover:bg-slate-700"
         >
-          Learn more
+          A technology for earth
         </motion.button>
       </div>
       <div className="mb-4 grid grid-cols-12 gap-4">
