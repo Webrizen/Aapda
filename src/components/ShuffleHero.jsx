@@ -7,13 +7,13 @@ const ShuffleHero = () => {
     <section className="w-full md:px-0 px-2 py-12 grid grid-cols-1 md:grid-cols-2 items-center gap-8 max-w-6xl mx-auto">
       <div>
         <span className="block mb-4 text-xs md:text-sm text-indigo-500 font-medium">
-        Protecting Kaziranga from Floods
+       
         </span>
         <h3 className="text-4xl md:text-6xl font-semibold">
         Technology for saving lives and habitats.
         </h3>
         <p className="text-base md:text-lg text-slate-700 my-4 md:my-6">
-          leveraging advanced technology to protect the region's diverse wildlife and human communities. Our integrated system combines satellite imagery, drone technology, and computer vision to pioneer a preemptive and responsive approach to floods.
+          Leveraging advanced technology to protect the region's diverse wildlife and human communities. Our integrated system combines satellite imagery, drone technology, and computer vision to pioneer a preemptive and responsive approach to floods.
         </p>
         <a href="#know" className="bg-indigo-500 text-white font-medium py-2 px-4 rounded transition-all hover:bg-indigo-600 active:scale-95">
           Learn More

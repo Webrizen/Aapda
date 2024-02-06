@@ -9,7 +9,7 @@ export const BouncyCardsFeatures = () => {
         <div className="flex flex-col gap-4">
         <h2 className="max-w-lg text-4xl font-bold md:text-5xl">
         About the Problem 
-          <span className="text-slate-400"> The Flood Crisis in Assam.</span>
+          <span className="text-slate-400"> Flood Crises in various parts of the world</span>
         </h2>
         <p className="max-w-2xl">
         Kaziranga located in Assam, renowned for its rich biodiversity and the iconic one-horned rhinoceros, faces a grave annual challenge: catastrophic flooding. The Brahmaputra River, nourishing the land in its serene days, turns into a source of destruction during monsoon seasons. Its rising waters inundate the park, leading to tragic losses for both wildlife and human settlements.
