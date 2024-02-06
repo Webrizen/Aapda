@@ -12,7 +12,7 @@ export const BouncyCardsFeatures = () => {
           <span className="text-slate-400"> Flood Crises in various parts of the world</span>
         </h2>
         <p className="max-w-2xl">
-        Kaziranga located in Assam, renowned for its rich biodiversity and the iconic one-horned rhinoceros, faces a grave annual challenge: catastrophic flooding. The Brahmaputra River, nourishing the land in its serene days, turns into a source of destruction during monsoon seasons. Its rising waters inundate the park, leading to tragic losses for both wildlife and human settlements.
+        For instance, Kaziranga National Park located in Assam, renowned for its rich biodiversity and the iconic one-horned rhinoceros, faces a grave annual challenge: catastrophic flooding. The Brahmaputra River, nourishing the land in its serene days, turns into a source of destruction during monsoon seasons. Its rising waters inundate the park, leading to tragic losses for both wildlife and human settlements.
         </p>
         </div>
         <motion.button
